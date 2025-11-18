@@ -1,5 +1,4 @@
 Sentence Transformer API
-
 This is a small Express.js API that takes a sentence and returns:
 
 Total number of words
